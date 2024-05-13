@@ -16,15 +16,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Robert-Wett&show_icons=true&theme=radical&count_private=true" alt="Robert's GitHub stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robert-Wett&layout=compact&theme=radical" alt="Top Langs" />
-</div>
-
----
-
 ## 📫 How to reach me
 
 - **Email**: [rdwettlaufer@gmail.com](mailto:rdwettlaufer@gmail.com)
