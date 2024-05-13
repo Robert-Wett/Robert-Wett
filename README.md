@@ -26,8 +26,3 @@
 ## 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/robertwettlaufer)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/Robert-Wett)
-
----
-
-⭐️ From [Robert-Wett](https://github.com/Robert-Wett)
